@@ -1,0 +1,14 @@
+D:\Blazor\BlazorTutorial\EmployeeManagement_Model\bin\Debug\net7.0\EmployeeManagement_Model.deps.json
+D:\Blazor\BlazorTutorial\EmployeeManagement_Model\bin\Debug\net7.0\EmployeeManagement_Model.runtimeconfig.json
+D:\Blazor\BlazorTutorial\EmployeeManagement_Model\bin\Debug\net7.0\EmployeeManagement_Model.dll
+D:\Blazor\BlazorTutorial\EmployeeManagement_Model\bin\Debug\net7.0\EmployeeManagement_Model.pdb
+D:\Blazor\BlazorTutorial\EmployeeManagement_Model\obj\Debug\net7.0\EmployeeManagement_Model.csproj.AssemblyReference.cache
+D:\Blazor\BlazorTutorial\EmployeeManagement_Model\obj\Debug\net7.0\EmployeeManagement_Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\Blazor\BlazorTutorial\EmployeeManagement_Model\obj\Debug\net7.0\EmployeeManagement_Model.AssemblyInfoInputs.cache
+D:\Blazor\BlazorTutorial\EmployeeManagement_Model\obj\Debug\net7.0\EmployeeManagement_Model.AssemblyInfo.cs
+D:\Blazor\BlazorTutorial\EmployeeManagement_Model\obj\Debug\net7.0\EmployeeManagement_Model.csproj.CoreCompileInputs.cache
+D:\Blazor\BlazorTutorial\EmployeeManagement_Model\obj\Debug\net7.0\EmployeeManagement_Model.dll
+D:\Blazor\BlazorTutorial\EmployeeManagement_Model\obj\Debug\net7.0\refint\EmployeeManagement_Model.dll
+D:\Blazor\BlazorTutorial\EmployeeManagement_Model\obj\Debug\net7.0\EmployeeManagement_Model.pdb
+D:\Blazor\BlazorTutorial\EmployeeManagement_Model\obj\Debug\net7.0\EmployeeManagement_Model.genruntimeconfig.cache
+D:\Blazor\BlazorTutorial\EmployeeManagement_Model\obj\Debug\net7.0\ref\EmployeeManagement_Model.dll

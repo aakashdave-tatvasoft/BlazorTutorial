@@ -1,0 +1,15 @@
+D:\Blazor\BlazorTutorial\EmployeeManagement_Repository\bin\Debug\net7.0\EmployeeManagement_Repository.deps.json
+D:\Blazor\BlazorTutorial\EmployeeManagement_Repository\bin\Debug\net7.0\EmployeeManagement_Repository.dll
+D:\Blazor\BlazorTutorial\EmployeeManagement_Repository\bin\Debug\net7.0\EmployeeManagement_Repository.pdb
+D:\Blazor\BlazorTutorial\EmployeeManagement_Repository\bin\Debug\net7.0\EmployeeManagement_Model.dll
+D:\Blazor\BlazorTutorial\EmployeeManagement_Repository\bin\Debug\net7.0\EmployeeManagement_Model.pdb
+D:\Blazor\BlazorTutorial\EmployeeManagement_Repository\obj\Debug\net7.0\EmployeeManagement_Repository.csproj.AssemblyReference.cache
+D:\Blazor\BlazorTutorial\EmployeeManagement_Repository\obj\Debug\net7.0\EmployeeManagement_Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\Blazor\BlazorTutorial\EmployeeManagement_Repository\obj\Debug\net7.0\EmployeeManagement_Repository.AssemblyInfoInputs.cache
+D:\Blazor\BlazorTutorial\EmployeeManagement_Repository\obj\Debug\net7.0\EmployeeManagement_Repository.AssemblyInfo.cs
+D:\Blazor\BlazorTutorial\EmployeeManagement_Repository\obj\Debug\net7.0\EmployeeManagement_Repository.csproj.CoreCompileInputs.cache
+D:\Blazor\BlazorTutorial\EmployeeManagement_Repository\obj\Debug\net7.0\EmployeeManagement_Repository.csproj.CopyComplete
+D:\Blazor\BlazorTutorial\EmployeeManagement_Repository\obj\Debug\net7.0\EmployeeManagement_Repository.dll
+D:\Blazor\BlazorTutorial\EmployeeManagement_Repository\obj\Debug\net7.0\refint\EmployeeManagement_Repository.dll
+D:\Blazor\BlazorTutorial\EmployeeManagement_Repository\obj\Debug\net7.0\EmployeeManagement_Repository.pdb
+D:\Blazor\BlazorTutorial\EmployeeManagement_Repository\obj\Debug\net7.0\ref\EmployeeManagement_Repository.dll
